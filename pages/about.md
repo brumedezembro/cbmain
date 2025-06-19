@@ -1,7 +1,7 @@
 ---
 title: Sobre
 layout: about
-permalink: /sobre.html
+permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
