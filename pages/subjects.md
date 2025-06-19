@@ -1,5 +1,5 @@
 ---
-title: Temas
+title: Subjects
 layout: cloud
 permalink: /subjects.html
 # Default subject page is configured in "_data/theme.yml"
